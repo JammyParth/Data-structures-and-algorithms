@@ -20,13 +20,13 @@ public:
         if(!node || count >= k){
             return;
         }
-        helper(node -> left , k);
+        if(node -> left) helper(node -> left , k);
         count++;
         if(count == k){
             result = node -> val;
             return; 
         }
-        helper(node -> right , k);
+        if(node -> right) helper(node -> right , k);
 
     }
     int kthSmallest(TreeNode* root, int k) {
