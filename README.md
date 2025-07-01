@@ -84,4 +84,8 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
+## String
+|  |
+| ------- |
+| [3617-find-the-original-typed-string-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3617-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
