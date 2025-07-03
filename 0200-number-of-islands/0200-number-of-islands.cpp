@@ -2,7 +2,7 @@ class Solution {
 public:
 
 
-    void dfs(int i , int j , vector<vector<char>>& grid, vector<vector<bool>> &visited) {
+    void bfs(int i , int j , vector<vector<char>>& grid, vector<vector<bool>> &visited) {
         int n = grid.size();
         int m = grid[0].size();
         queue<pair<int , int>> q;
@@ -40,7 +40,7 @@ public:
         for(int i = 0; i < n; i++){
             for(int j= 0; j < m; j++){
                 if(!visited[i][j] && grid[i][j] =='1'){
-                    dfs(i , j , grid, visited);
+                    bfs(i , j , grid, visited);
                     count++;
                 }
             }
