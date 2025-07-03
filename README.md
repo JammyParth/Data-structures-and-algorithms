@@ -66,6 +66,7 @@ Noting down my progess in leetcode.
 | [0199-binary-tree-right-side-view](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0871-keys-and-rooms](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Noting down my progess in leetcode.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
+| [0871-keys-and-rooms](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0871-keys-and-rooms) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -145,4 +147,8 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
