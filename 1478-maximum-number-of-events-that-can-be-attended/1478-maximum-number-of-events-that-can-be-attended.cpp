@@ -1,36 +1,36 @@
 class Solution {
 public:
     int maxEvents(vector<vector<int>>& events) {
-        
         int n = events.size();
-        sort(events.begin() , events.end());
 
+        sort(events.begin() , events.end());
+        int count = 0; //result
         int day = events[0][0];
         int i = 0;
-        int count = 0; //result
 
-        priority_queue<int , vector<int> , greater<int>> pq;
-        while(!pq.empty() || i < n){
+        priority_queue<int , vector<int> , greater<int>> minheap;
 
-            if(pq.empty()) day = events[i][0];
+        while(!minheap.empty() || i < n){
+            
+            if(minheap.empty()) day = events[i][0];
 
             while(i < n && events[i][0] == day){
-                pq.push(events[i][1]);
+                minheap.push(events[i][1]);
                 i++;
             }
 
-            if(!pq.empty()){
-            pq.pop();
-            count++;
+            if(!minheap.empty()){
+                minheap.pop();
+                count++;
             }
 
             day++;
 
-
-            while(!pq.empty() && pq.top() < day){
-                pq.pop();
+            while(!minheap.empty() && minheap.top() < day){
+                minheap.pop();
             }
         }
+
     return count;
     }
 };
