@@ -25,6 +25,7 @@ Noting down my progess in leetcode.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Noting down my progess in leetcode.
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Noting down my progess in leetcode.
 | [0055-jump-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Divide and Conquer
 |  |
 | ------- |
