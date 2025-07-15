@@ -139,6 +139,7 @@ Noting down my progess in leetcode.
 ## String
 |  |
 | ------- |
+| [3396-valid-word](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
 |  |
