@@ -143,6 +143,7 @@ Noting down my progess in leetcode.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
 | [3396-valid-word](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
@@ -219,4 +220,8 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
