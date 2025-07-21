@@ -10,6 +10,7 @@ Noting down my progess in leetcode.
 | [0027-remove-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +85,7 @@ Noting down my progess in leetcode.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0101-symmetric-tree) |
@@ -144,12 +146,14 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [3396-valid-word](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -195,6 +199,7 @@ Noting down my progess in leetcode.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0733-flood-fill) |
