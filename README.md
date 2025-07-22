@@ -30,6 +30,7 @@ Noting down my progess in leetcode.
 | [1036-rotting-oranges](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1036-rotting-oranges) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1813-maximum-erasure-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1813-maximum-erasure-value) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -42,6 +43,7 @@ Noting down my progess in leetcode.
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1813-maximum-erasure-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1813-maximum-erasure-value) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Sorting
 |  |
@@ -136,6 +138,7 @@ Noting down my progess in leetcode.
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1813-maximum-erasure-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
 |  |
