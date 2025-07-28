@@ -31,6 +31,7 @@ Noting down my progess in leetcode.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1813-maximum-erasure-value) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -160,11 +161,13 @@ Noting down my progess in leetcode.
 | ------- |
 | [0078-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -239,4 +242,8 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
