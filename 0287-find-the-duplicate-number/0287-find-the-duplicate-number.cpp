@@ -2,21 +2,24 @@ class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
 
-    unordered_map<int , int> mp;
-    int n = nums.size();
+    int slow = nums[0];
+    int fast = nums[0];
 
-    for(int i = 0; i < n; i++){
-        mp[nums[i]]++;
+    do{
+        slow = nums[slow];
+        fast = nums[nums[fast]];
+    }
+    while(slow != fast);
+
+
+    slow = nums[0];
+
+    while(slow != fast){
+        slow = nums[slow];
+        fast = nums[fast];
     }
 
-    int ans = -1;
-    for(auto val : mp){
-        if(val.second > 1){
-            ans = val.first;
-        }
-    }
 
-
-    return ans;
+    return fast;
     }
 };
