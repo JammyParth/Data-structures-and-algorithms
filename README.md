@@ -36,6 +36,7 @@ Noting down my progess in leetcode.
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
@@ -171,6 +172,7 @@ Noting down my progess in leetcode.
 | [0287-find-the-duplicate-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -250,4 +252,8 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
