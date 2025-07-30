@@ -2,33 +2,27 @@ class Solution {
 public:
 
 
-    void bfs(int i , int j , vector<vector<char>>& grid, vector<vector<bool>> &visited) {
+    void dfs(int row , int col , vector<vector<char>>& grid, vector<vector<bool>> &visited) {
         int n = grid.size();
         int m = grid[0].size();
-        queue<pair<int , int>> q;
-        q.push({i , j});
-        visited[i][j] = true;
+        visited[row][col] = true;
 
-        vector<int> nrow = {-1 , 0 , 0 , 1};
-        vector<int> ncol = {0 , - 1, 1 , 0};
+        vector<int> nrows = {-1 , 1 , 0 , 0};
+        vector<int> ncols = {0 , 0 , -1, 1};
 
-        while(!q.empty()){
-            int newrow = q.front().first;
-            int newcol = q.front().second;
-            q.pop();
 
-            for(int i = 0; i < 4; i++){
-                int row = newrow + nrow[i];
-                int col = newcol + ncol[i];
+        for(int i = 0; i < 4; i++){
+            int newrow = row + nrows[i];
+            int newcol = col + ncols[i];
 
-                if(row >= 0 && row < n && col >= 0 && col < m && !visited[row][col]
-                && grid[row][col] == '1'){
-                    visited[row][col] = true;
-                    q.push({row , col});
-                }
+            if(newrow < n && newrow >= 0 && newcol < m && newcol >=0 
+            && !visited[newrow][newcol] && grid[newrow][newcol] == '1'){
+                dfs(newrow , newcol , grid, visited);
             }
         }
+        
     }
+
     int numIslands(vector<vector<char>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
@@ -40,7 +34,7 @@ public:
         for(int i = 0; i < n; i++){
             for(int j= 0; j < m; j++){
                 if(!visited[i][j] && grid[i][j] =='1'){
-                    bfs(i , j , grid, visited);
+                    dfs(i , j , grid, visited);
                     count++;
                 }
             }
