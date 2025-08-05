@@ -21,6 +21,7 @@ Noting down my progess in leetcode.
 | [0169-majority-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
+| [0274-h-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
@@ -63,6 +64,7 @@ Noting down my progess in leetcode.
 | [0088-merge-sorted-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
@@ -291,4 +293,8 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3790-fruits-into-baskets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
