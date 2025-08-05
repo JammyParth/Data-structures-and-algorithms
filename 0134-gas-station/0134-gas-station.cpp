@@ -1,33 +1,21 @@
 class Solution {
 public:
-
-    bool canReach(vector<int>& gas, vector<int>& cost, int index){
-        int n = gas.size();
-
-        int possiblegas = 0;
-
-       for(int i = 0; i < n; i++){
-            int currindex = (i + index) % n; //for looping through the array.
-            possiblegas += gas[currindex] - cost[currindex];
-            
-
-            if(possiblegas < 0) return false;
-        }
-
-        return true;
-    }
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
-        int n = gas.size();
+        int n  = gas.size();
+        int totalgas = 0;
+        int currgas = 0;
 
-        if(n == 1 && gas[0] == cost[0]) return 0;
+        int startindex = 0;
         for(int i = 0; i < n; i++){
-            if(gas[i] > cost[i]){
-                if(canReach(gas, cost , i)){
-                    return i;
-                }
+            totalgas += gas[i] - cost[i];
+            currgas +=  gas[i] - cost[i];
+
+            if(currgas < 0){
+                startindex = i + 1;
+                currgas = 0;
             }
         }
 
-        return -1;
+        return (totalgas >= 0) ? startindex : -1;
     }
 };
