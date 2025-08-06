@@ -180,6 +180,7 @@ Noting down my progess in leetcode.
 | [0013-roman-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0242-valid-anagram) |
