@@ -185,6 +185,7 @@ Noting down my progess in leetcode.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
@@ -215,6 +216,7 @@ Noting down my progess in leetcode.
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
