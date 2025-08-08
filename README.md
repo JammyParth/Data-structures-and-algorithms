@@ -29,6 +29,7 @@ Noting down my progess in leetcode.
 | [0300-longest-increasing-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
@@ -55,6 +56,7 @@ Noting down my progess in leetcode.
 | [0013-roman-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
@@ -290,6 +292,7 @@ Noting down my progess in leetcode.
 | ------- |
 | [0020-valid-parentheses](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -318,6 +321,7 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 ## Probability and Statistics
 |  |
 | ------- |
