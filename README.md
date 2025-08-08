@@ -7,6 +7,7 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
@@ -216,6 +217,7 @@ Noting down my progess in leetcode.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -234,6 +236,7 @@ Noting down my progess in leetcode.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0134-gas-station) |
