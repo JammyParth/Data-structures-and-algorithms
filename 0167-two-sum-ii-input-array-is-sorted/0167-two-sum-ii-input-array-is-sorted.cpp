@@ -8,7 +8,7 @@ public:
 
         while(i < j){
             if(nums[i] + nums[j] == target){
-                break;
+                return {i + 1 , j + 1}; 
             }
 
             else if(nums[i] + nums[j] > target){
@@ -20,6 +20,6 @@ public:
             }
         }
 
-        return {i + 1 , j + 1};
+        return {};
     }
 };
