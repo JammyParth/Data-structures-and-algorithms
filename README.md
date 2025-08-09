@@ -209,6 +209,7 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -258,6 +259,7 @@ Noting down my progess in leetcode.
 | [0012-integer-to-roman](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0826-soup-servings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -283,6 +285,7 @@ Noting down my progess in leetcode.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
