@@ -2,28 +2,29 @@ class Solution {
 public:
 
 
-    bool solve(vector<int>&powers ,int index, int n, vector<int>&realpowers){
+    // bool solve(vector<int>&powers ,int index, int n, vector<int>&realpowers){
         
-    if(n < 0) return false;
-    if(n == 0) return true;
-    if (index == powers.size()) return false;
+    // if(n < 0) return false;
+    // if(n == 0) return true;
+    // if (index == powers.size()) return false;
 
-        //include
-        realpowers.push_back(powers[index]);
-        if(solve(powers, index + 1, n - powers[index] ,realpowers)){
-            return true;
-        }
-        realpowers.pop_back();
+    //     //include
+    //     realpowers.push_back(powers[index]);
+    //     if(solve(powers, index + 1, n - powers[index] ,realpowers)){
+    //         return true;
+    //     }
+    //     realpowers.pop_back();
 
 
-        //exclude
-        if (solve(powers, index + 1, n, realpowers)) {
-            return true; 
-        }
+    //     //exclude
+    //     if (solve(powers, index + 1, n, realpowers)) {
+    //         return true; 
+    //     }
 
-    return false;
+    // return false;
 
-    }
+    // }
+    
     vector<int> productQueries(int n, vector<vector<int>>& queries) {
         const int MOD = 1e9 + 7;
         // vector<int> powers;
@@ -39,10 +40,13 @@ public:
 
 
         vector<int> realpowers;
-        for (int bit = 0; bit < 31; bit++) {
-            if (n & (1 << bit)) {
-                realpowers.push_back(1 << bit);
+        int power = 1;
+        while (n > 0) {
+            if (n & 1) {       // if lowest bit is set
+                realpowers.push_back(power);
             }
+            power <<= 1;       // move to next power of two
+            n >>= 1;           // shift n right
         }
 
         int m = realpowers.size();
