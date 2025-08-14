@@ -213,6 +213,7 @@ Noting down my progess in leetcode.
 | [0392-is-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
