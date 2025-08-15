@@ -228,6 +228,7 @@ Noting down my progess in leetcode.
 | [0078-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -281,6 +282,7 @@ Noting down my progess in leetcode.
 | [0189-rotate-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0826-soup-servings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0900-reordered-power-of-2) |
@@ -309,6 +311,7 @@ Noting down my progess in leetcode.
 | ------- |
 | [0231-power-of-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
