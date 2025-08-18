@@ -38,6 +38,7 @@ Noting down my progess in leetcode.
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
+| [0679-24-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0733-flood-fill) |
 | [0940-fruit-into-baskets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1036-rotting-oranges) |
@@ -227,6 +228,7 @@ Noting down my progess in leetcode.
 | ------- |
 | [0078-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
+| [0679-24-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -292,6 +294,7 @@ Noting down my progess in leetcode.
 | [0326-power-of-three](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0679-24-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
