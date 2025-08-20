@@ -12,6 +12,7 @@ Noting down my progess in leetcode.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
@@ -314,6 +315,7 @@ Noting down my progess in leetcode.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
@@ -334,6 +336,7 @@ Noting down my progess in leetcode.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0054-spiral-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3790-fruits-into-baskets-ii) |
