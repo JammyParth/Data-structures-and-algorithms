@@ -39,6 +39,7 @@ Noting down my progess in leetcode.
 | [0455-assign-cookies](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
@@ -328,6 +329,7 @@ Noting down my progess in leetcode.
 | [0130-surrounded-regions](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -348,6 +350,7 @@ Noting down my progess in leetcode.
 | ------- |
 | [0054-spiral-matrix](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3790-fruits-into-baskets-ii) |
