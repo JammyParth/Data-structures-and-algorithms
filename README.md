@@ -12,6 +12,7 @@ Noting down my progess in leetcode.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0054-spiral-matrix) |
@@ -72,6 +73,7 @@ Noting down my progess in leetcode.
 | [0003-longest-substring-without-repeating-characters](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0169-majority-element) |
