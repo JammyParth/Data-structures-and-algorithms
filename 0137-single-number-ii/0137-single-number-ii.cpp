@@ -1,21 +1,25 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int , int> mp;
+        sort(nums.begin() , nums.end());
 
         int n = nums.size();
-        for(int i = 0; i < n; i++){
-            mp[nums[i]]++;
-        }
+        if(n < 3) return nums[0];
 
+        int i = 1;
         int ans = -1;
-        for(auto val : mp){
-            if(val.second < 3){
-                ans = val.first;
+        while(i < n){
+            if(nums[i - 1] == nums[i] && nums[i] == nums[i + 1]){
+                i += 3;
+            }
+
+            else{
+                ans = nums[i - 1];
+                break;
             }
         }
 
-
+        if(ans == -1) return nums[n - 1];
         return ans;
     }
 };
