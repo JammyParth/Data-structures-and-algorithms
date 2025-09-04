@@ -320,6 +320,7 @@ Noting down my progess in leetcode.
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3830-find-closest-person) |
 ## Union Find
 |  |
 | ------- |
