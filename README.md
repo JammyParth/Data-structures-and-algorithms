@@ -109,6 +109,7 @@ Noting down my progess in leetcode.
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2887-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -238,6 +239,7 @@ Noting down my progess in leetcode.
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
