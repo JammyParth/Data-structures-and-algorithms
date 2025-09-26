@@ -45,6 +45,7 @@ Noting down my progess in leetcode.
 | [0498-diagonal-traverse](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0733-flood-fill) |
@@ -105,6 +106,7 @@ Noting down my progess in leetcode.
 | [0455-assign-cookies](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -196,6 +198,7 @@ Noting down my progess in leetcode.
 | [0287-find-the-duplicate-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
+| [0611-valid-triangle-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -291,6 +294,7 @@ Noting down my progess in leetcode.
 | [0287-find-the-duplicate-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -302,6 +306,7 @@ Noting down my progess in leetcode.
 | [0134-gas-station](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [1448-maximum-69-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
