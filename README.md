@@ -138,6 +138,7 @@ Noting down my progess in leetcode.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0101-symmetric-tree) |
@@ -152,6 +153,7 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0101-symmetric-tree) |
@@ -165,6 +167,7 @@ Noting down my progess in leetcode.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0101-symmetric-tree) |
@@ -397,6 +400,7 @@ Noting down my progess in leetcode.
 | ------- |
 | [0020-valid-parentheses](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 ## Enumeration
 |  |
