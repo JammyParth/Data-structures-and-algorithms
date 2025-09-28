@@ -149,6 +149,7 @@ Noting down my progess in leetcode.
 | [0199-binary-tree-right-side-view](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -166,6 +167,7 @@ Noting down my progess in leetcode.
 | [0199-binary-tree-right-side-view](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0733-flood-fill](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
@@ -182,6 +184,7 @@ Noting down my progess in leetcode.
 | [0199-binary-tree-right-side-view](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -193,6 +196,7 @@ Noting down my progess in leetcode.
 | [0130-surrounded-regions](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
+| [0513-find-bottom-left-tree-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0733-flood-fill](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1036-rotting-oranges) |
