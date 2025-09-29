@@ -11,41 +11,30 @@
  */
 class Solution {
 public:
-
-    bool check(TreeNode* node){
+    int check(TreeNode* root){
         
-
-        if(node == NULL){
-            return true;
+        if(root == NULL){
+            return 0;
+        }
+        int lefth = check(root -> left);
+        if(lefth == -1){
+            return -1;
         }
 
-        int lefth = 0;
-        int righth = 0;
-
-        TreeNode* leftn = node;
-
-        while(leftn){
-            lefth++;
-            leftn = leftn -> left;
-        }
-
-        TreeNode* rightn = node;
-
-        while(rightn){
-            righth++;
-            rightn = rightn -> right;
+        int righth = check(root -> right);
+        if(righth == -1){
+            return -1;
         }
 
         if(abs(righth - lefth) > 1){
-            return false;
+            return -1;
         }
 
 
-        return check(node -> left) && check(node -> right);
-
+        return max(righth , lefth) + 1;
     }
 
     bool isBalanced(TreeNode* root) {
-       return check(root);
+        return check(root) != -1;
     }
 };
