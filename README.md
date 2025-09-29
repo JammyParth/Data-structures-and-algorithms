@@ -56,6 +56,7 @@ Noting down my progess in leetcode.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1813-maximum-erasure-value) |
+| [1833-find-the-highest-altitude](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1833-find-the-highest-altitude) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -410,6 +411,7 @@ Noting down my progess in leetcode.
 | [0238-product-of-array-except-self](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1833-find-the-highest-altitude](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1833-find-the-highest-altitude) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2529-range-product-queries-of-powers) |
 ## Linked List
