@@ -154,6 +154,7 @@ Noting down my progess in leetcode.
 | [0257-binary-tree-paths](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0513-find-bottom-left-tree-value) |
+| [0662-maximum-width-of-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -174,6 +175,7 @@ Noting down my progess in leetcode.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0513-find-bottom-left-tree-value) |
+| [0662-maximum-width-of-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -193,6 +195,7 @@ Noting down my progess in leetcode.
 | [0257-binary-tree-paths](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0513-find-bottom-left-tree-value) |
+| [0662-maximum-width-of-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -206,6 +209,7 @@ Noting down my progess in leetcode.
 | [0199-binary-tree-right-side-view](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0513-find-bottom-left-tree-value) |
+| [0662-maximum-width-of-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
