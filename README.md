@@ -65,6 +65,7 @@ Noting down my progess in leetcode.
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2529-range-product-queries-of-powers) |
@@ -386,6 +387,7 @@ Noting down my progess in leetcode.
 | [0900-reordered-power-of-2](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1448-maximum-69-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3830-find-closest-person) |
 ## Union Find
@@ -427,6 +429,7 @@ Noting down my progess in leetcode.
 | [0289-game-of-life](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
@@ -486,4 +489,8 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0826-soup-servings) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
