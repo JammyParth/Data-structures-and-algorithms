@@ -55,6 +55,7 @@ Noting down my progess in leetcode.
 | [0940-fruit-into-baskets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -246,6 +247,7 @@ Noting down my progess in leetcode.
 | [0784-insert-into-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
