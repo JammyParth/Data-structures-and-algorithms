@@ -391,6 +391,7 @@ Noting down my progess in leetcode.
 | [1448-maximum-69-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3830-find-closest-person) |
 ## Union Find
@@ -434,6 +435,7 @@ Noting down my progess in leetcode.
 | [1642-water-bottles](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
