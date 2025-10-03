@@ -31,6 +31,7 @@ Noting down my progess in leetcode.
 | [0134-gas-station](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0189-rotate-array) |
@@ -144,6 +145,7 @@ Noting down my progess in leetcode.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0392-is-subsequence) |
 | [0826-soup-servings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0826-soup-servings) |
