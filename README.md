@@ -16,6 +16,7 @@ Noting down my progess in leetcode.
 | [0041-first-missing-positive](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
@@ -137,6 +138,7 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -375,6 +377,7 @@ Noting down my progess in leetcode.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 ## Math
 |  |
