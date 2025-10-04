@@ -144,6 +144,7 @@ Noting down my progess in leetcode.
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -396,6 +397,7 @@ Noting down my progess in leetcode.
 | [0013-roman-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0231-power-of-two) |
@@ -517,4 +519,8 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
