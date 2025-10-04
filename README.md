@@ -47,6 +47,7 @@ Noting down my progess in leetcode.
 | [0287-find-the-duplicate-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
@@ -151,6 +152,7 @@ Noting down my progess in leetcode.
 | [0124-binary-tree-maximum-path-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0392-is-subsequence) |
 | [0826-soup-servings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -240,6 +242,7 @@ Noting down my progess in leetcode.
 | [0130-surrounded-regions](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0733-flood-fill) |
