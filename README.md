@@ -68,6 +68,7 @@ Noting down my progess in leetcode.
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1753-path-with-minimum-effort](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1833-find-the-highest-altitude) |
@@ -140,6 +141,7 @@ Noting down my progess in leetcode.
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1753-path-with-minimum-effort](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1753-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Dynamic Programming
 |  |
@@ -210,6 +212,7 @@ Noting down my progess in leetcode.
 | [0794-swim-in-rising-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,6 +256,7 @@ Noting down my progess in leetcode.
 | [0871-keys-and-rooms](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -275,6 +279,7 @@ Noting down my progess in leetcode.
 | [0907-koko-eating-bananas](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1753-path-with-minimum-effort](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3790-fruits-into-baskets-ii) |
@@ -428,6 +433,7 @@ Noting down my progess in leetcode.
 | [0130-surrounded-regions](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0794-swim-in-rising-water) |
+| [1753-path-with-minimum-effort](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -443,6 +449,7 @@ Noting down my progess in leetcode.
 | [0794-swim-in-rising-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1753-path-with-minimum-effort](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1753-path-with-minimum-effort) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Graph
 |  |
