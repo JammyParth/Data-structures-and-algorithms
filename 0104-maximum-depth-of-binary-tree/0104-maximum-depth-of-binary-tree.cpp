@@ -11,36 +11,30 @@
  */
 class Solution {
 public:
+    int depth = 0;
+    int maxdepth =  INT_MIN;
+
+
+    void solve(TreeNode* node){
+
+        if(!node){
+            return;
+        }
+
+        depth++;
+        if(!node -> left && !node -> right){
+            maxdepth = max(depth , maxdepth);
+            depth--;
+            return;
+        }
+
+        solve(node -> left);
+        solve(node -> right);
+
+        depth--;
+    }
     int maxDepth(TreeNode* root) {
-        
-        vector<vector<int>> ans;
-        queue<TreeNode*> q;
-        q.push(root);
-
-        if(root == NULL){
-            return 0;
-        }
-        while(!q.empty()){
-
-            int levelsize = q.size();
-            vector<int> level;
-
-            for(int  i=0; i<levelsize; i++){
-                TreeNode* node = q.front();
-                q.pop();
-                level.push_back(node -> val);
-
-
-                if(node -> left != NULL){
-                    q.push(node -> left);
-                }
-
-                if(node -> right != NULL){
-                    q.push(node -> right);
-                }
-            }
-        ans.push_back(level);
-        }
-    return ans.size();
+        solve(root);
+        return maxdepth == INT_MIN ? 0 : maxdepth;
     }
 };
