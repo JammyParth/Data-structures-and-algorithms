@@ -191,6 +191,7 @@ Noting down my progess in leetcode.
 | [0783-search-in-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +221,7 @@ Noting down my progess in leetcode.
 | [0794-swim-in-rising-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1753-path-with-minimum-effort](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -249,6 +251,7 @@ Noting down my progess in leetcode.
 | [0783-search-in-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -340,6 +343,7 @@ Noting down my progess in leetcode.
 | [0383-ransom-note](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1532-reformat-the-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1532-reformat-the-string) |
@@ -357,6 +361,7 @@ Noting down my progess in leetcode.
 | [0113-path-sum-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0679-24-game) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
