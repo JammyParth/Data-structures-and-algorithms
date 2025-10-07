@@ -515,6 +515,7 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
