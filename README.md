@@ -431,6 +431,7 @@ Noting down my progess in leetcode.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0013-roman-to-integer) |
@@ -484,6 +485,7 @@ Noting down my progess in leetcode.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0326-power-of-three) |
@@ -515,6 +517,7 @@ Noting down my progess in leetcode.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0908-middle-of-the-linked-list) |
