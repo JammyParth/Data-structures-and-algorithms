@@ -142,6 +142,7 @@ Noting down my progess in leetcode.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0794-swim-in-rising-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1612-avoid-flood-in-the-city) |
@@ -428,6 +429,7 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 ## Math
@@ -522,6 +524,7 @@ Noting down my progess in leetcode.
 | ------- |
 | [0002-add-two-numbers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0237-delete-node-in-a-linked-list) |
@@ -578,4 +581,8 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
