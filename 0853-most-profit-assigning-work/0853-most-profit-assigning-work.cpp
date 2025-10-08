@@ -18,7 +18,7 @@ public:
         int totalprofit = 0;
         for(auto worker : workers){
 
-            auto it = lower_bound(pairs.begin() , pairs.end() ,make_pair(worker , INT_MAX));
+            auto it = upper_bound(pairs.begin() , pairs.end() ,make_pair(worker , INT_MAX));
 
             if(it != pairs.begin()){
                 --it;
