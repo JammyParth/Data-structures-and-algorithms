@@ -78,6 +78,7 @@ Noting down my progess in leetcode.
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2529-range-product-queries-of-powers) |
@@ -136,6 +137,7 @@ Noting down my progess in leetcode.
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2887-sort-vowels-in-a-string) |
@@ -305,6 +307,7 @@ Noting down my progess in leetcode.
 | [1753-path-with-minimum-effort](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3790-fruits-into-baskets-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
@@ -408,6 +411,7 @@ Noting down my progess in leetcode.
 | [0611-valid-triangle-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0908-middle-of-the-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
