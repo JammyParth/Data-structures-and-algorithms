@@ -1,0 +1,38 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* oddEvenList(ListNode* head) {
+
+        if(!head){
+            return NULL;
+        }
+
+        if(!head -> next){
+            return head;
+        }
+
+        ListNode* curreven = head -> next;
+        ListNode* currodd = head;
+        ListNode* evenhead = head -> next;
+        ListNode* oddhead = head;
+
+        while(curreven && curreven -> next){
+            currodd -> next = curreven -> next;
+            currodd = currodd -> next;
+            curreven -> next = currodd -> next;
+            curreven = curreven -> next;
+        }
+
+        currodd -> next = evenhead;
+        return oddhead;
+    }
+};
