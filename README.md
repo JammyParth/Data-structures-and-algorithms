@@ -53,6 +53,7 @@ Noting down my progess in leetcode.
 | [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
@@ -111,6 +112,7 @@ Noting down my progess in leetcode.
 | [0383-ransom-note](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
@@ -538,6 +540,7 @@ Noting down my progess in leetcode.
 | [0209-minimum-size-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1833-find-the-highest-altitude) |
