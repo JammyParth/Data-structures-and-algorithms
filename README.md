@@ -52,6 +52,7 @@ Noting down my progess in leetcode.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0498-diagonal-traverse) |
+| [0523-continuous-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
@@ -109,6 +110,7 @@ Noting down my progess in leetcode.
 | [0290-word-pattern](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
@@ -467,6 +469,7 @@ Noting down my progess in leetcode.
 | [0326-power-of-three](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0523-continuous-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0679-24-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0900-reordered-power-of-2) |
@@ -534,6 +537,7 @@ Noting down my progess in leetcode.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1833-find-the-highest-altitude) |
