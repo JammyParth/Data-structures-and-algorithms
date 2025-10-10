@@ -553,6 +553,7 @@ Noting down my progess in leetcode.
 | [0143-reorder-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
