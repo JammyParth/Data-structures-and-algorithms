@@ -12,7 +12,7 @@ public:
 
             auto it = st.lower_bound(nums[i] - valueDiff);
 
-            if(it != st.end() && *it <= nums[i] + valueDiff){
+            if(it != st.end() && *it - nums[i] <= valueDiff){
                 return true;
             }
 
