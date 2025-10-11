@@ -42,6 +42,7 @@ Noting down my progess in leetcode.
 | [0209-minimum-size-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0274-h-index) |
@@ -137,6 +138,7 @@ Noting down my progess in leetcode.
 | [0088-merge-sorted-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
@@ -338,6 +340,7 @@ Noting down my progess in leetcode.
 | [0076-minimum-window-substring](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0940-fruit-into-baskets) |
@@ -606,6 +609,7 @@ Noting down my progess in leetcode.
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0220-contains-duplicate-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting Sort
 |  |
@@ -640,4 +644,8 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
