@@ -3,13 +3,16 @@
  * @param {Function} fn
  * @return {number[]}
  */
-var map = function(arr, fn) {
+// var map = function(arr, fn) {
     
-    const result = [];
+//     const result = [];
 
-    for(var i = 0; i < arr.length; i++){
-        result.push(fn(arr[i] , i));
-    }
+//     for(var i = 0; i < arr.length; i++){
+//         result.push(fn(arr[i] , i));
+//     }
 
-    return result;
-};
+//     return result;
+// };
+
+
+const map = (arr, fn) => arr.map(fn);
