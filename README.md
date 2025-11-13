@@ -100,6 +100,7 @@ Noting down my progess in leetcode.
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3790-fruits-into-baskets-ii) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Noting down my progess in leetcode.
 | [2689-rearranging-fruits](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2689-rearranging-fruits) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
 | ------- |
