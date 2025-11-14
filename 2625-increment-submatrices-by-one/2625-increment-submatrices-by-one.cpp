@@ -1,32 +1,44 @@
 class Solution {
 public:
 
-    void solve(vector<vector<int>>& grid, int row1, int col1, int row2, int col2){
-        
+    void solve(vector<vector<int>> &grid , int row1 , int col1 , int row2, int col2){
+
         int n = grid.size();
-
-        // if(row1 < n && row2 < n && col1 < n && col2 < n){
-
         for(int i = row1; i <= row2; i++){
-            for(int j = col1; j <= col2; j++){
-                grid[i][j] += 1;
+
+            grid[i][col1] += 1;
+
+            if(col2 + 1 < n){
+                grid[i][col2 + 1] -= 1;
+            }
+        }
+    }
+    vector<vector<int>> rangeAddQueries(int n, vector<vector<int>>& nums) {
+        vector<vector<int>> grid(n + 1, vector<int>(n + 1, 0));
+
+        int m = nums.size();
+
+        for(int i = 0; i < m; i++){
+            solve(grid, nums[i][0] ,  nums[i][1] ,  nums[i][2]  ,  nums[i][3]);
+        } 
+
+        
+        for(int i = 0; i < n + 1; i++){
+            for(int j = 1; j < n + 1; j++){
+                grid[i][j] += grid[i][j - 1];
+            }
+        }
+
+        vector<vector<int>> ans(n , vector<int> (n , 0));
+
+        for(int i = 0 ; i <n; i++){
+            for(int j = 0; j  <n; j++)
+            {
+                ans[i][j] = grid[i][j];
             }
         }
 
 
-        // }
-    }
-    vector<vector<int>> rangeAddQueries(int n, vector<vector<int>>& queries) {
-                
-        vector<vector<int>>grid(n , vector<int>(n , 0));
-
-        int m = queries.size();
-
-        for(int i = 0; i < m; i++){
-            solve(grid , queries[i][0] , queries[i][1] , queries[i][2], queries[i][3]);
-        }
-
-        return grid;
-
+        return ans;
     }
 };
