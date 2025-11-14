@@ -91,6 +91,7 @@ Noting down my progess in leetcode.
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2529-range-product-queries-of-powers) |
+| [2625-increment-submatrices-by-one](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2625-increment-submatrices-by-one) |
 | [2689-rearranging-fruits](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2689-rearranging-fruits) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -532,6 +533,7 @@ Noting down my progess in leetcode.
 | [1036-rotting-oranges](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1753-path-with-minimum-effort) |
+| [2625-increment-submatrices-by-one](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Graph
 |  |
@@ -575,6 +577,7 @@ Noting down my progess in leetcode.
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2529-range-product-queries-of-powers) |
+| [2625-increment-submatrices-by-one](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Linked List
 |  |
