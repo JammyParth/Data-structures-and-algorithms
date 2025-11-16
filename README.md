@@ -398,6 +398,7 @@ Noting down my progess in leetcode.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1532-reformat-the-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1532-reformat-the-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2887-sort-vowels-in-a-string) |
@@ -508,6 +509,7 @@ Noting down my progess in leetcode.
 | [1448-maximum-69-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1642-water-bottles) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
