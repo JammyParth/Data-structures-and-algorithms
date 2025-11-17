@@ -47,6 +47,7 @@ Noting down my progess in leetcode.
 | [0238-product-of-array-except-self](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
@@ -326,6 +327,7 @@ Noting down my progess in leetcode.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0275-h-index-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
