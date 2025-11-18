@@ -33,6 +33,7 @@ Noting down my progess in leetcode.
 | [0134-gas-station](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0164-maximum-gap) |
@@ -523,6 +524,7 @@ Noting down my progess in leetcode.
 | [0043-multiply-strings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0231-power-of-two) |
@@ -639,6 +641,7 @@ Noting down my progess in leetcode.
 | [0143-reorder-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [1552-build-an-array-with-stack-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1552-build-an-array-with-stack-operations) |
 ## Enumeration
