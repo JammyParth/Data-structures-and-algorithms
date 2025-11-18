@@ -66,6 +66,7 @@ Noting down my progess in leetcode.
 | [0611-valid-triangle-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0792-binary-search) |
