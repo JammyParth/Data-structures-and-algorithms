@@ -39,6 +39,7 @@ Noting down my progess in leetcode.
 | [0164-maximum-gap](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
@@ -220,6 +221,7 @@ Noting down my progess in leetcode.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0392-is-subsequence) |
@@ -569,6 +571,7 @@ Noting down my progess in leetcode.
 | [0073-set-matrix-zeroes](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0498-diagonal-traverse) |
