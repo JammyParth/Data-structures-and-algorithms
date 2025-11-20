@@ -215,6 +215,7 @@ Noting down my progess in leetcode.
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -534,6 +535,7 @@ Noting down my progess in leetcode.
 | [0013-roman-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0189-rotate-array) |
@@ -696,6 +698,7 @@ Noting down my progess in leetcode.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Memoization
 |  |
