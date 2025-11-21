@@ -118,6 +118,7 @@ Noting down my progess in leetcode.
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3708-longest-fibonacci-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3708-longest-fibonacci-subarray) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3790-fruits-into-baskets-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
