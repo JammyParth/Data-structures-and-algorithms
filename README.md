@@ -158,6 +158,7 @@ Noting down my progess in leetcode.
 | [1612-avoid-flood-in-the-city](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1612-avoid-flood-in-the-city) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1813-maximum-erasure-value) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -437,6 +438,7 @@ Noting down my progess in leetcode.
 | [1532-reformat-the-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1532-reformat-the-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2887-sort-vowels-in-a-string) |
@@ -463,6 +465,7 @@ Noting down my progess in leetcode.
 | [0342-power-of-four](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2529-range-product-queries-of-powers) |
@@ -629,6 +632,7 @@ Noting down my progess in leetcode.
 | [0724-find-pivot-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0724-find-pivot-index) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1833-find-the-highest-altitude) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2529-range-product-queries-of-powers) |
