@@ -150,6 +150,7 @@ Noting down my progess in leetcode.
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0771-jewels-and-stones) |
 | [0900-reordered-power-of-2](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -436,6 +437,7 @@ Noting down my progess in leetcode.
 | [0383-ransom-note](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0771-jewels-and-stones) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
