@@ -117,6 +117,7 @@ Noting down my progess in leetcode.
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -569,6 +570,7 @@ Noting down my progess in leetcode.
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3336-water-bottles-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3830-find-closest-person) |
 ## Union Find
