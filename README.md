@@ -90,6 +90,7 @@ Noting down my progess in leetcode.
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1580-shuffle-the-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1612-avoid-flood-in-the-city) |
@@ -159,6 +160,7 @@ Noting down my progess in leetcode.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1612-avoid-flood-in-the-city) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -641,6 +643,7 @@ Noting down my progess in leetcode.
 | [0525-contiguous-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0724-find-pivot-index) |
+| [1590-make-sum-divisible-by-p](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1833-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
