@@ -101,6 +101,7 @@ Noting down my progess in leetcode.
 | [1813-maximum-erasure-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2058-concatenation-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -243,6 +244,7 @@ Noting down my progess in leetcode.
 | [0826-soup-servings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -572,6 +574,7 @@ Noting down my progess in leetcode.
 | [1636-number-of-substrings-with-only-1s](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1642-water-bottles) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
