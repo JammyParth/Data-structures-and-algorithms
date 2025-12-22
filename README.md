@@ -455,6 +455,7 @@ Noting down my progess in leetcode.
 | [1636-number-of-substrings-with-only-1s](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2211-count-collisions-on-a-road](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2887-sort-vowels-in-a-string) |
@@ -636,6 +637,7 @@ Noting down my progess in leetcode.
 | [1552-build-an-array-with-stack-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2058-concatenation-of-array) |
+| [2211-count-collisions-on-a-road](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -690,6 +692,7 @@ Noting down my progess in leetcode.
 | [0150-evaluate-reverse-polish-notation](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [1552-build-an-array-with-stack-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1552-build-an-array-with-stack-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2211-count-collisions-on-a-road) |
 ## Enumeration
 |  |
 | ------- |
