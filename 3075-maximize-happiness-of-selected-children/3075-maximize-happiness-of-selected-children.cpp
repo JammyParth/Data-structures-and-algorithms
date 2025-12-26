@@ -6,9 +6,7 @@ public:
         int counter = 0;
         long long happy = 0;
         
-        if(k > n){
-            k = n;
-        }
+        k = k <= n ? k : n;
 
         for(int i = 0; i < k; i++){
             happiness[i] -= counter;
