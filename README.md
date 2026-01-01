@@ -22,6 +22,7 @@ Noting down my progess in leetcode.
 | [0054-spiral-matrix](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
@@ -569,6 +570,7 @@ Noting down my progess in leetcode.
 | [0043-multiply-strings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0189-rotate-array) |
