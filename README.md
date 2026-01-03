@@ -58,6 +58,7 @@ Noting down my progess in leetcode.
 | [0289-game-of-life](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
@@ -155,6 +156,7 @@ Noting down my progess in leetcode.
 | [0219-contains-duplicate-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
@@ -198,6 +200,7 @@ Noting down my progess in leetcode.
 | [0220-contains-duplicate-iii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0475-heaters) |
@@ -228,6 +231,7 @@ Noting down my progess in leetcode.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0794-swim-in-rising-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1612-avoid-flood-in-the-city) |
@@ -428,6 +432,7 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0900-reordered-power-of-2) |
@@ -564,6 +569,7 @@ Noting down my progess in leetcode.
 | [0023-merge-k-sorted-lists](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -779,8 +785,13 @@ Noting down my progess in leetcode.
 | ------- |
 | [0164-maximum-gap](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0164-maximum-gap) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
