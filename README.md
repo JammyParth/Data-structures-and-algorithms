@@ -18,6 +18,7 @@ Noting down my progess in leetcode.
 | [0041-first-missing-positive](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0055-jump-game) |
@@ -144,6 +145,7 @@ Noting down my progess in leetcode.
 | [0012-integer-to-roman](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0141-linked-list-cycle) |
@@ -187,6 +189,7 @@ Noting down my progess in leetcode.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0164-maximum-gap) |
@@ -443,6 +446,7 @@ Noting down my progess in leetcode.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
