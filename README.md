@@ -295,6 +295,7 @@ Noting down my progess in leetcode.
 | [0784-insert-into-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@ Noting down my progess in leetcode.
 | [0871-keys-and-rooms](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -357,6 +359,7 @@ Noting down my progess in leetcode.
 | [0784-insert-into-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -378,6 +381,7 @@ Noting down my progess in leetcode.
 | [0871-keys-and-rooms](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
