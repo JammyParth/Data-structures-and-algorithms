@@ -89,6 +89,7 @@ Noting down my progess in leetcode.
 | [1036-rotting-oranges](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1441-build-an-array-with-stack-operations) |
@@ -601,6 +602,7 @@ Noting down my progess in leetcode.
 | [0679-24-game](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0900-reordered-power-of-2) |
+| [1390-four-divisors](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1636-number-of-substrings-with-only-1s) |
