@@ -163,6 +163,7 @@ Noting down my progess in leetcode.
 | [0290-word-pattern](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
@@ -436,6 +437,7 @@ Noting down my progess in leetcode.
 | [0219-contains-duplicate-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0940-fruit-into-baskets) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -476,6 +478,7 @@ Noting down my progess in leetcode.
 | [0290-word-pattern](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0771-jewels-and-stones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0944-delete-columns-to-make-sorted) |
