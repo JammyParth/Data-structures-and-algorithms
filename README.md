@@ -190,6 +190,7 @@ Noting down my progess in leetcode.
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2689-rearranging-fruits) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3803-count-residue-prefixes](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3803-count-residue-prefixes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -494,6 +495,7 @@ Noting down my progess in leetcode.
 | [3396-valid-word](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3617-find-the-original-typed-string-i) |
 | [3798-largest-even-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3798-largest-even-number) |
+| [3803-count-residue-prefixes](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3803-count-residue-prefixes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
