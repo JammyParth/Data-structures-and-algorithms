@@ -78,6 +78,7 @@ Noting down my progess in leetcode.
 | [0717-1-bit-and-2-bit-characters](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
 | [0759-set-intersection-size-at-least-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0794-swim-in-rising-water) |
@@ -742,6 +743,7 @@ Noting down my progess in leetcode.
 | [0145-binary-tree-postorder-traversal](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1552-build-an-array-with-stack-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1552-build-an-array-with-stack-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2211-count-collisions-on-a-road) |
@@ -778,6 +780,7 @@ Noting down my progess in leetcode.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
 ## Probability and Statistics
 |  |
 | ------- |
