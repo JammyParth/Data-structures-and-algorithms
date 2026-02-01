@@ -83,6 +83,7 @@ Noting down my progess in leetcode.
 | [0792-binary-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0853-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0940-fruit-into-baskets) |
@@ -416,6 +417,7 @@ Noting down my progess in leetcode.
 | [0792-binary-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0853-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0907-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
