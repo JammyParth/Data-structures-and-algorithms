@@ -79,6 +79,7 @@ Noting down my progess in leetcode.
 | [0724-find-pivot-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0794-swim-in-rising-water) |
@@ -416,6 +417,7 @@ Noting down my progess in leetcode.
 | [0450-delete-node-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0475-heaters](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0792-binary-search) |
