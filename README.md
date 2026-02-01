@@ -127,6 +127,7 @@ Noting down my progess in leetcode.
 | [2625-increment-submatrices-by-one](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2689-rearranging-fruits) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -232,6 +233,7 @@ Noting down my progess in leetcode.
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -755,6 +757,7 @@ Noting down my progess in leetcode.
 | [0900-reordered-power-of-2](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0900-reordered-power-of-2) |
 | [1925-count-square-sum-triples](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Brainteaser
 |  |
 | ------- |
