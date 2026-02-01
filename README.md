@@ -110,6 +110,7 @@ Noting down my progess in leetcode.
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1833-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -226,6 +227,7 @@ Noting down my progess in leetcode.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -558,6 +560,7 @@ Noting down my progess in leetcode.
 | [0680-valid-palindrome-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0853-most-profit-assigning-work](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0853-most-profit-assigning-work) |
 | [0908-middle-of-the-linked-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0908-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -578,6 +581,7 @@ Noting down my progess in leetcode.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1612-avoid-flood-in-the-city) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
