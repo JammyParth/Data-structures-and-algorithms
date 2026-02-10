@@ -144,6 +144,7 @@ Noting down my progess in leetcode.
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3708-longest-fibonacci-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3708-longest-fibonacci-subarray) |
+| [3719-longest-balanced-subarray-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3790-fruits-into-baskets-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -197,6 +198,7 @@ Noting down my progess in leetcode.
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2689-rearranging-fruits) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3719-longest-balanced-subarray-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3803-count-residue-prefixes](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3803-count-residue-prefixes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -603,6 +605,7 @@ Noting down my progess in leetcode.
 | [0053-maximum-subarray](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
+| [3719-longest-balanced-subarray-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -726,6 +729,7 @@ Noting down my progess in leetcode.
 | [2625-increment-submatrices-by-one](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
 | ------- |
@@ -777,6 +781,7 @@ Noting down my progess in leetcode.
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
