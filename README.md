@@ -94,6 +94,7 @@ Noting down my progess in leetcode.
 | [1200-minimum-absolute-difference](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -229,6 +230,7 @@ Noting down my progess in leetcode.
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -465,6 +467,7 @@ Noting down my progess in leetcode.
 | [0383-ransom-note](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0900-reordered-power-of-2) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -535,6 +538,7 @@ Noting down my progess in leetcode.
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
