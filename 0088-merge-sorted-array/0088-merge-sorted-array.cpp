@@ -1,49 +1,30 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int nums1ptr = 0;
-        int nums2ptr = 0;
-        vector<int> temp;
+        
+    vector<int> nums3;
 
-        while(nums1ptr < m && nums2ptr < n){
+       if(m > nums1.size()){
+        m = nums1.size();
+       }
 
-            // if(nums1[nums1ptr] == 0){
-            //     temp.push_back(nums2[nums2ptr]);
-            // }
-            // if(nums2[nums2ptr] == 0){
-            //     temp.push_back(nums1[nums1ptr]);
-            // }
-
-            if(nums1[nums1ptr] <= nums2[nums2ptr]){
-                temp.push_back(nums1[nums1ptr]);
-                nums1ptr++;
-            }
-
-            else{
-                temp.push_back(nums2[nums2ptr]);
-                nums2ptr++;
-            }
-
-        }
-
-    while(nums2ptr < n){
-        temp.push_back(nums2[nums2ptr]);
-        nums2ptr++;
-    }
+       if(n > nums2.size()){
+        n = nums2.size();
+       }
 
 
-    while(nums1ptr < m){
+       for(int i= 0; i < m; i++)
+       {
+            nums3.push_back(nums1[i]);
+       }
 
-        temp.push_back(nums1[nums1ptr]);
-        nums1ptr++;
+       for(int i =0 ; i < n; i++){
+        nums3.push_back(nums2[i]);
+       }
 
-    }
 
-    nums1.clear();
+       sort(nums3.begin() , nums3.end());
 
-    for(int i =0; i< temp.size(); i++){
-        nums1.push_back(temp[i]);
-    }
-    
+       nums1 = nums3;
     }
 };
