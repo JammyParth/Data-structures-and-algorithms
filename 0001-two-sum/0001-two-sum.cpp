@@ -5,7 +5,7 @@ public:
         unordered_map<int , int> mp;
 
         for(int i = 0; i < n; i++){
-            mp.insert({nums[i] , i});
+            mp[nums[i]] = i;
         }
 
         for(int i = 0; i < n; i++){
