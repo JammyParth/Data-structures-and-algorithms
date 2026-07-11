@@ -1,29 +1,22 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        int n = nums.size();
         unordered_map<int , int> mp;
 
-        int n = nums.size();
-        
-        for(int i = 0; i< n; i++)
-        {
-            mp[nums[i]] = i;
+        for(int i = 0; i < n; i++){
+            mp.insert({nums[i] , i});
         }
 
-        int start = -1;
-        int end = -1;
+        for(int i = 0; i < n; i++){
+            int val = target - nums[i];
 
-        for(int j = 0; j < n; j++){
-            int ops = target - nums[j];
-
-            if(mp.find(ops) != mp.end() && mp[ops] != j){
-                start = mp[ops];
-                end = j;
-                break;
+            if(mp.find(val) != 0 && mp[val] != i){
+                return {i , mp[val]};
             }
         }
 
 
-        return {start , end};
+        return {-1 , -1};
     }
 };
