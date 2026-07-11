@@ -110,6 +110,7 @@ Noting down my progess in leetcode.
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1612-avoid-flood-in-the-city) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/1813-maximum-erasure-value) |
