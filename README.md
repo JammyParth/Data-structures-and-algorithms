@@ -53,6 +53,7 @@ Noting down my progess in leetcode.
 | [0220-contains-duplicate-iii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0283-move-zeroes) |
@@ -172,6 +173,7 @@ Noting down my progess in leetcode.
 | [0217-contains-duplicate](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0383-ransom-note) |
@@ -220,6 +222,7 @@ Noting down my progess in leetcode.
 | [0217-contains-duplicate](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
@@ -423,6 +426,7 @@ Noting down my progess in leetcode.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
@@ -539,6 +543,7 @@ Noting down my progess in leetcode.
 | [0078-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0645-set-mismatch) |
@@ -638,6 +643,7 @@ Noting down my progess in leetcode.
 | [0189-rotate-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
