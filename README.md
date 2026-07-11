@@ -25,6 +25,7 @@ Noting down my progess in leetcode.
 | [0063-unique-paths-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -216,6 +217,7 @@ Noting down my progess in leetcode.
 | ------- |
 | [0015-3sum](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0164-maximum-gap) |
@@ -569,6 +571,7 @@ Noting down my progess in leetcode.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JammyParth/Data-structures-and-algorithms/tree/master/0125-valid-palindrome) |
